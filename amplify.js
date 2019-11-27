@@ -44,12 +44,12 @@ const SendRecord = (props) => {
        });
      }
 
-  console.log('Enviando notificacion');
+  console.log('Sending notification');
   Analytics.record({
       name: 'song',
       attributes: { name: props.name },
       metrics: { minutesListened: Math.random().toString() },
   });
-  console.log('Notificacion Enviada');
+  console.log('Notification sent');
 }
 export  { PushNotification , SendRecord };

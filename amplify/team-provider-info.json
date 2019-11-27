@@ -23,5 +23,30 @@
                 }
             }
         }
+    },
+    "staging": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-pinpointreact-staging-162925-authRole",
+            "UnauthRoleArn": "arn:aws:iam::492266378106:role/amplify-pinpointreact-staging-162925-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::492266378106:role/amplify-pinpointreact-staging-162925-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-pinpointreact-staging-162925-deployment",
+            "UnauthRoleName": "amplify-pinpointreact-staging-162925-unauthRole",
+            "StackName": "amplify-pinpointreact-staging-162925",
+            "StackId": "arn:aws:cloudformation:us-east-1:492266378106:stack/amplify-pinpointreact-staging-162925/5ff4f6c0-1165-11ea-8c0f-0a140a53308d",
+            "AmplifyAppId": "d2hensbqqa47wh"
+        },
+        "categories": {
+            "auth": {
+                "cognitoda537d03": {}
+            },
+            "notifications": {
+                "Pinpoint": {
+                    "Name": "pinpointreact-staging",
+                    "Id": "6222e5f4c5204969a348bf39d5c5975b",
+                    "Region": "us-east-1"
+                }
+            }
+        }
     }
 }
