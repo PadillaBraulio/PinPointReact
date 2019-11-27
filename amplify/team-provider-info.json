@@ -1,0 +1,15 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-pinpointreact-prod-211307-authRole",
+            "UnauthRoleArn": "arn:aws:iam::492266378106:role/amplify-pinpointreact-prod-211307-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::492266378106:role/amplify-pinpointreact-prod-211307-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-pinpointreact-prod-211307-deployment",
+            "UnauthRoleName": "amplify-pinpointreact-prod-211307-unauthRole",
+            "StackName": "amplify-pinpointreact-prod-211307",
+            "StackId": "arn:aws:cloudformation:us-east-1:492266378106:stack/amplify-pinpointreact-prod-211307/d6930d50-10c3-11ea-9f97-0af60b3b604b",
+            "AmplifyAppId": "d2hensbqqa47wh"
+        }
+    }
+}
