@@ -10,6 +10,18 @@
             "StackName": "amplify-pinpointreact-prod-211307",
             "StackId": "arn:aws:cloudformation:us-east-1:492266378106:stack/amplify-pinpointreact-prod-211307/d6930d50-10c3-11ea-9f97-0af60b3b604b",
             "AmplifyAppId": "d2hensbqqa47wh"
+        },
+        "categories": {
+            "auth": {
+                "cognitoda537d03": {}
+            },
+            "notifications": {
+                "Pinpoint": {
+                    "Name": "pinpointreact-prod",
+                    "Id": "fe05cbd205674873a69873f6f211b039",
+                    "Region": "us-east-1"
+                }
+            }
         }
     }
 }

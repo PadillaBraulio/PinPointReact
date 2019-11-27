@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "398189915368",
+    "firebase_url": "https://pinpointdemo-e23ec.firebaseio.com",
+    "project_id": "pinpointdemo-e23ec",
+    "storage_bucket": "pinpointdemo-e23ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398189915368:android:f7a91e3dd93f1f1634ad5d",
+        "android_client_info": {
+          "package_name": "com.pinpointreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398189915368-4ikank8s3q3ha4dgafkdg2u94rd9gcnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcejZaXlWahCWIF5RLYHT-VEdRSm5RZZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398189915368-4ikank8s3q3ha4dgafkdg2u94rd9gcnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
